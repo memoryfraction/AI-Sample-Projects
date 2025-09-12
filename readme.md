@@ -1,4 +1,4 @@
-# Ollama+ Llams 3.2-vision + C#/.NET 图像识别app 开发步骤
+# Ollama + Llama3.2-vision + C#/.NET Image interact app development steps
 ## 0 下载并安装ollama, 默认安装路径
 C:\Users\rongf\AppData\Local\Programs\Ollama
 
