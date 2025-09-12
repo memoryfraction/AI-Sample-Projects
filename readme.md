@@ -29,13 +29,13 @@ Find ollama.exe Path;  Then execute
 run llama3.2-vision
 ```
 
-## ​2 常见指令
+## ​2 Commands
 ```bash
-ollama list // 检查当前的模型
-ollama pull llama3.2-vision // pull model, 必须是vision模型才能识别图片;
-ollama run llama3.2-vision // 运行模型
+ollama list // list all the models
+ollama pull llama3.2-vision // pull model
+ollama run llama3.2-vision // run the model
 ```
 
-## 3 使用repo中的代码，可以交互图片信息
-效果图如下
+## 3 Interact with the app
+Images
 <img alt="result1.png" src="https://github.com/memoryfraction/AI-SAMPLE-PROJECTS/blob/main/projects/LLAMA%203.2%20+%20C%23%20+%20HttpClient/result1.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm"> ```
