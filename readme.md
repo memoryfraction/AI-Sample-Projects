@@ -19,7 +19,7 @@ ollama run llama3.2-vision // 运行模型
 <img alt="result1.png" src="https://github.com/memoryfraction/AI-SAMPLE-PROJECTS/blob/main/projects/LLAMA%203.2%20+%20C%23%20+%20HttpClient/result1.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm"> ```
 
 
-## 0 Doanload and Install ollama, default path
+## 0 Download and install ollama, default path
 C:\Users\rongf\AppData\Local\Programs\Ollama\ollama.exe
 
 ## 1 Download llama3.2 
