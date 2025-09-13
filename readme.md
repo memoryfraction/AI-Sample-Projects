@@ -1,9 +1,9 @@
 # Ollama + Llama3.2-vision + C#/.NET Image interact app development steps
 ## 0 下载并安装ollama, 默认安装路径
-C:\Users\rongf\AppData\Local\Programs\Ollama
+C:\Users\rongf\AppData\Local\Programs\Ollama\ollama.exe
 
 ## 1 下载llama3.2 
-下载路径: https://ollama.com/library/llama3.2
+下载路径: [https://ollama.com/library/llama3.2](https://ollama.com/)
 找到ollama.exe的安装路径;  然后执行命令: 
 run llama3.2-vision
 
@@ -20,10 +20,10 @@ ollama run llama3.2-vision // 运行模型
 
 
 ## 0 Doanload and Install ollama, default path
-C:\Users\rongf\AppData\Local\Programs\Ollama
+C:\Users\rongf\AppData\Local\Programs\Ollama\ollama.exe
 
 ## 1 Download llama3.2 
-Path: https://ollama.com/library/llama3.2
+Path: [https://ollama.com/library/llama3.2](https://ollama.com/)
 Find ollama.exe Path;  Then execute
 ```bash
 run llama3.2-vision
