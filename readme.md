@@ -3,9 +3,11 @@
 C:\Users\rongf\AppData\Local\Programs\Ollama\ollama.exe
 
 ## 1 下载llama3.2 
-下载路径: [https://ollama.com/library/llama3.2](https://ollama.com/)
+下载路径: [https://ollama.com/library/llama3.2](https://ollama.com/)  
 找到ollama.exe的安装路径;  然后执行命令: 
+```bash
 run llama3.2-vision
+```
 
 ## ​2 常见指令
 ```bash
@@ -23,8 +25,8 @@ ollama run llama3.2-vision // 运行模型
 C:\Users\rongf\AppData\Local\Programs\Ollama\ollama.exe
 
 ## 1 Download llama3.2 
-Path: [https://ollama.com/library/llama3.2](https://ollama.com/)
-Find ollama.exe Path;  Then execute
+Path: [https://ollama.com/library/llama3.2](https://ollama.com/)  
+Find ollama.exe Path;  Then execute  
 ```bash
 run llama3.2-vision
 ```
