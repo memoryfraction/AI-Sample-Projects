@@ -1,7 +1,5 @@
-# Ollama + Llama3.2-vision + C#/.NET Image interact app development steps
-
 ## 摘要
-本项目描述了如何使用本地LLM识别图片，并给出图片中的信息的文字描述
+本地视觉解析器是一个开源的C#项目，利用Ollama和Meta的Llama 3.2视觉模型实现强大的本地图像识别功能。它帮助.NET开发者在无需云端依赖的情况下执行对象检测、文字识别（OCR）和场景分析等任务，保证数据隐私和低延迟。通过Ollama Sharp集成，支持异步工作流，适用于文档处理、电子商务和无障碍工具等场景。项目基于.NET 8+和Ollama v0.3.0+打造，提供轻量级、可扩展的AI视觉开发解决方案，安装简单，适合快速开发。
 
 ## 0 下载并安装ollama, 默认安装路径
 C:\Users\rongf\AppData\Local\Programs\Ollama\ollama.exe
@@ -26,7 +24,7 @@ ollama run llama3.2-vision // 运行模型
 
 
 ## Summary
-In this project, a picture can be parsed and described using text with an LLM.
+LocalVisionParser is an open-source C# project that combines Ollama and Meta’s Llama 3.2 Vision model to deliver robust image recognition on local hardware. It empowers .NET developers to implement tasks like object detection, optical character recognition, and scene analysis without cloud reliance, ensuring data privacy and fast processing. Integrated via Ollama Sharp, it supports asynchronous workflows for applications in document extraction, e-commerce, and accessibility tools. Built for .NET 8+ and Ollama v0.3.0+, this lightweight solution enables scalable, AI-driven vision development with minimal setup.
 
 ## 0 Download and install ollama, default path
 C:\Users\rongf\AppData\Local\Programs\Ollama\ollama.exe
